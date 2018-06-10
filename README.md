@@ -1,2 +1,2 @@
 # Template
-study algorithm
+Study Algorithm
