@@ -1,0 +1,1 @@
+g++ FF.h test.cpp -o FF.exe

@@ -1,0 +1,1 @@
+g++ EK.h test.cpp -o EK.exe
